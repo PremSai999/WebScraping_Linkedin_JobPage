@@ -1,4 +1,4 @@
-# Web-Scraping-Linkedin-Job-Page-with-Selenium-Python
+# Web-Scraping Linkedin JobPage Using Selenium
 In this project, we will be using Selenium which will help us to navigate between pages, fill out forms (such as login credentials), click links, etc. Briefly, besides the data scraping part, Selenium is going to be used to automate the following steps mentioned below to manage some actions until we access the pages where we will scrape the data. We will scrape the job offers and scrape their information.
 <br>
 <br>
